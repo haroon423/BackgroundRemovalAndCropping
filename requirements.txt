@@ -3,3 +3,4 @@ pytesseract
 numpy
 rembg
 Pillow
+onnxruntime
